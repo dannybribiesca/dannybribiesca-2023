@@ -1,0 +1,1 @@
+import{o as e,R as d,F as n,j as p}from"./chunk-D2jAZH6l.js";const i=e.forwardRef((r,a)=>{const{imageLoader:o,renderer:t}=e.useContext(d),{key:s,imageProps:m}=n({props:r,imageLoader:o,renderer:t});return p.jsx("img",{...m,ref:a},s)});i.displayName="Image";export{i as d};
